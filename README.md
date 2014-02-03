@@ -1,0 +1,1 @@
+Change the playback speed of all HTML5 videos with the click of a button!
